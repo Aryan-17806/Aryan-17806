@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan Singh  
 
-🎓 **Computer Science Undergraduate** at **GLA University, Mathura** (CPI: 8.03)  
+🎓 **Computer Science Undergraduate** at **GLA University, Mathura** (CPI: 8.3)  
 💻 Passionate about **Software Development**, **Web Development**, and **App Development**  
 
 ---
