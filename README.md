@@ -81,9 +81,11 @@ Data Structures & Algorithms • OOP • DBMS • OS
 
 ## 📊 GitHub & Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-17806&show_icons=true" />
-</p>
+- 🧩 250+ DSA problems solved on LeetCode  
+- 🏆 AIR 182 – TCS CodeVita 2025  
+- 📈 Consistent GitHub contributions  
+- 💻 Java-focused backend development  
+
 
 
 
