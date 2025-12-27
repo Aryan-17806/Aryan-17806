@@ -81,18 +81,10 @@ Data Structures & Algorithms • OOP • DBMS • OS
 
 ## 📊 GitHub & Coding Stats
 
-## 📊 GitHub & Coding Stats
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aryan-17806&show_icons=true&count_private=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-17806&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-17806&show_icons=true" />
 </p>
+
 
 
 ---
