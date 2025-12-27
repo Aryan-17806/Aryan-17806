@@ -1,86 +1,103 @@
-# Hi 👋, I'm Aryan Singh
+<h1 align="center">
+  Hi 👋, I'm Aryan Singh
+</h1>
 
-🎓 Computer Science Undergraduate at **GLA University, Mathura**  
-💻 Aspiring **Software Development Engineer (SDE)**  
-🏆 **AIR 182 – TCS CodeVita 2025 (Round 1)**  
-📊 Solved **250+ Data Structures & Algorithms problems** on LeetCode  
+<h3 align="center">
+  Computer Science Undergraduate | Aspiring Software Development Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;DSA+Enthusiast;AIR+182+TCS+CodeVita+2025;Future+SDE&font=Fira+Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000">
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a motivated Computer Science undergraduate with strong foundations in **Data Structures & Algorithms, Object-Oriented Programming, and Backend Development**.  
-I enjoy building scalable software systems and solving complex algorithmic problems.
+🎓 Computer Science Undergraduate at **GLA University, Mathura**  
+💻 Passionate about **Java Backend Development & Data Structures**  
+🏆 **AIR 182 – TCS CodeVita 2025 (Round 1)**  
+📊 Solved **250+ DSA problems** on LeetCode  
 
-I have hands-on experience developing **Java-based applications**, working with **databases (MySQL)**, and designing clean, maintainable code.  
-Currently, I am expanding my skills in **backend frameworks and system design** to prepare for **SDE internship roles**.
+I enjoy building **scalable Java applications**, designing clean architectures, and solving challenging algorithmic problems. Currently focused on **backend frameworks and system design** for SDE internship roles.
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **AIR 182 in TCS CodeVita 2025 (Round 1)** among **20,540+ participants**
-- 🏫 **1st Rank at GLA University** in CodeVita Round 1
-- 💡 Solved **250+ problems on LeetCode**, including Easy, Medium, and Hard
-- 📈 Regular participant in competitive programming contests
-- 👥 Active member of **Google Developer Student Clubs (GDSC)**
+🏅 **AIR 182 – TCS CodeVita 2025** (20,540+ participants)  
+🥇 **Rank 1 at GLA University** (CodeVita Round 1)  
+💡 **250+ problems solved on LeetCode** (Easy / Medium / Hard)  
+📈 Regular Competitive Programming participant  
+👥 Active member of **Google Developer Student Clubs (GDSC)**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
-- Java, Python, C, SQL
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔹 Backend & Databases
-- JDBC, MySQL
-- Object-Oriented Programming (OOP)
+### ⚙️ Backend & Web
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![JDBC](https://img.shields.io/badge/JDBC-323330?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### 🔹 Web Development
-- HTML, CSS, JavaScript
-- React.js
-
-### 🔹 Core Computer Science
-- Data Structures & Algorithms
-- Operating Systems
-- Database Management Systems
-
-### 🔹 Tools
-- Git, GitHub
-- VS Code
+### 🧠 Core CS
+Data Structures & Algorithms • OOP • DBMS • OS  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🗳️ Online Voting System
-**Tech Stack:** Java, JDBC, MySQL, OOP  
-- Built a secure, multi-threaded Java application handling **100+ concurrent users**
-- Implemented **role-based authentication** for voters and administrators
-- Designed a **normalized MySQL database schema** with 5+ tables
-- Enabled **real-time vote counting** with results displayed in under 2 seconds  
+**Java | JDBC | MySQL | OOP**
+
+<img src="https://user-images.githubusercontent.com/your-image-id/voting.gif" width="600"/>
+
+✔ Multi-threaded Java application handling **100+ concurrent users**  
+✔ Role-based authentication (Admin / Voter)  
+✔ Normalized MySQL schema (5+ tables)  
+✔ Real-time vote counting (**< 2 seconds**)  
+
 🔗 [View Repository](https://github.com/Aryan-17806/Online-Voting-System)
 
 ---
 
 ### 🏥 Hospital Management System
-**Tech Stack:** Java, File Handling, OOP  
-- Developed a console-based system managing **1,000+ patient and doctor records**
-- Implemented efficient **search and filter** functionality
-- Used Java File I/O for data persistence without database dependency
-- Improved reliability with structured exception handling  
+**Java | File Handling | OOP**
+
+<img src="https://user-images.githubusercontent.com/your-image-id/hospital.gif" width="600"/>
+
+✔ Managed **1,000+ patient & doctor records**  
+✔ Efficient search & filtering  
+✔ Java File I/O for persistence  
+✔ Robust exception handling  
+
 🔗 [View Repository](https://github.com/Aryan-17806/Hospital-Management-System)
 
 ---
 
-## 📈 Coding Profiles
-- 🔗 **LeetCode:** https://leetcode.com/u/Aryan_1786/
-- 🔗 **GitHub:** https://github.com/Aryan-17806
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/aryan-singh-1a1143325/
+## 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-17806&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-17806&theme=github-dark" height="165"/>
+</p>
+
+---
+
+## 🌐 Coding Profiles
+🔗 **LeetCode:** https://leetcode.com/u/Aryan_1786/  
+🔗 **GitHub:** https://github.com/Aryan-17806  
+🔗 **LinkedIn:** https://www.linkedin.com/in/aryan-singh-1a1143325/  
 
 ---
 
 ## 📫 Connect With Me
-📧 Email: aryansingh17806@gmail.com  
-📍 Location: Mathura, Uttar Pradesh, India  
+📧 aryansingh17806@gmail.com  
+📍 Mathura, Uttar Pradesh, India  
 
 ---
 
