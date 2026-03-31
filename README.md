@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Aryan Singh
+  Hi 👋, I am Aryan Singh
 </h1>
 
 <h3 align="center">
@@ -81,7 +81,7 @@ Data Structures & Algorithms • OOP • DBMS • OS
 
 ## 📊 GitHub & Coding Stats
 
-- 🧩 250+ DSA problems solved on LeetCode  
+- 🧩 350+ DSA problems solved on LeetCode  
 - 🏆 AIR 182 – TCS CodeVita 2025  
 - 📈 Consistent GitHub contributions  
 - 💻 Java-focused backend development  
