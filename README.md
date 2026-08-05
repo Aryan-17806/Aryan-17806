@@ -16,7 +16,7 @@
 🎓 Computer Science Undergraduate at **GLA University, Mathura**  
 💻 Passionate about **Java Backend Development & Data Structures**  
 🏆 **AIR 182 – TCS CodeVita 2025 (Round 1)**  
-📊 Solved **500+ DSA problems** on LeetCode  
+📊 Solved **600+ DSA problems** on LeetCode  
 
 I enjoy building **scalable Java applications**, designing clean architectures, and solving challenging algorithmic problems. Currently focused on **backend frameworks and system design** for SDE internship roles.
 
@@ -25,7 +25,7 @@ I enjoy building **scalable Java applications**, designing clean architectures, 
 ## 🏆 Achievements
 🏅 **AIR 182 – TCS CodeVita 2025** (20,540+ participants)  
 🥇 **Rank 1 at GLA University** (CodeVita Round 1)  
-💡 **500+ problems solved on LeetCode** (Easy / Medium / Hard)  
+💡 **600+ problems solved on LeetCode** (Easy / Medium / Hard)  
 📈 Regular Competitive Programming participant  
 👥 Active member of **Google Developer Student Clubs (GDSC)**  
 
@@ -81,7 +81,7 @@ Data Structures & Algorithms • OOP • DBMS • OS
 
 ## 📊 GitHub & Coding Stats
 
-- 🧩 500+ DSA problems solved on LeetCode  
+- 🧩 600+ DSA problems solved on LeetCode  
 - 🏆 AIR 182 – TCS CodeVita 2025  
 - 📈 Consistent GitHub contributions  
 - 💻 Java-focused backend development  
